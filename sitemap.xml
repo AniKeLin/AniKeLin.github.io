@@ -13,6 +13,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://anikelin.github.io/docs/installation/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://anikelin.github.io/docs/getting-started/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

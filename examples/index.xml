@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Showcase on Blowfish</title>
+    <title>Showcase on AniKeLin Home</title>
     <link>https://anikelin.github.io/examples/</link>
-    <description>Recent content in Showcase on Blowfish</description>
+    <description>Recent content in Showcase on AniKeLin Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2024 Blowfish</copyright>
+    <managingEditor>nuno@n9o.xyz (AniKeLin)</managingEditor>
+    <webMaster>nuno@n9o.xyz (AniKeLin)</webMaster>
+    <copyright>© 2024 AniKeLin</copyright>
     <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikelin.github.io/examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcase</title>
       <link>https://anikelin.github.io/examples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (AniKeLin)</author>
       <guid>https://anikelin.github.io/examples/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
@@ -29,7 +29,7 @@
       <title>Showcase</title>
       <link>https://anikelin.github.io/examples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (AniKeLin)</author>
       <guid>https://anikelin.github.io/examples/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
@@ -44,7 +44,7 @@
       <title>ショーケース</title>
       <link>https://anikelin.github.io/examples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (AniKeLin)</author>
       <guid>https://anikelin.github.io/examples/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish で何が出来るか見てみる。
