@@ -556,6 +556,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://anikelin.github.io/series/hugolearn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://anikelin.github.io/tags/icon/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
